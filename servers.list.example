@@ -1,0 +1,4 @@
+# Ip address/hostname,Port,Username,Status,Date
+127.0.0.1,22,root,,
+127.0.0.2,22,root,,
+localhost,22,root,,
